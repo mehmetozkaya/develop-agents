@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/section4-setup/">
+    <Project Path="section4-setup/HelloAgent/HelloAgent.csproj" />
+  </Folder>
+</Solution>
