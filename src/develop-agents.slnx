@@ -2,4 +2,8 @@
   <Folder Name="/section4-setup/">
     <Project Path="section4-setup/HelloAgent/HelloAgent.csproj" />
   </Folder>
+  <Folder Name="/section5-getting-started/">
+    <Project Path="section5-getting-started/BasicAgentApp/BasicAgentApp.csproj" Id="196c45bc-8d94-4fd8-9bb0-54267136d2d3" />
+    <Project Path="section5-getting-started/Streaming/Streaming.csproj" Id="eae2f426-78cd-4a04-b39b-883089831951" />
+  </Folder>
 </Solution>
