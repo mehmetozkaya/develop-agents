@@ -1,0 +1,10 @@
+@WebApi_HostAddress = http://localhost:5043
+
+POST {{WebApi_HostAddress}}/api/chat
+Content-Type: application/json
+
+{
+  "message": "My VPN keeps disconnecting every few minutes. What should I try?"
+}
+
+###

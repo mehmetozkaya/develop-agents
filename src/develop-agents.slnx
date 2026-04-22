@@ -4,6 +4,13 @@
   </Folder>
   <Folder Name="/section5-getting-started/">
     <Project Path="section5-getting-started/BasicAgentApp/BasicAgentApp.csproj" Id="196c45bc-8d94-4fd8-9bb0-54267136d2d3" />
+    <Project Path="section5-getting-started/MultiTurn/MultiTurn.csproj" Id="e88c51be-e1ab-411c-9511-8be156af7cba" />
     <Project Path="section5-getting-started/Streaming/Streaming.csproj" Id="eae2f426-78cd-4a04-b39b-883089831951" />
+    <Project Path="section5-getting-started/StructuredOutput/StructuredOutput.csproj" Id="f8c747d7-ebb6-4f81-ae31-56f72b8fd8a1" />
+  </Folder>
+  <Folder Name="/section5-getting-started/MinimalAgent/">
+    <Project Path="section5-getting-started/MinimalAgent/AppHost/AppHost.csproj" />
+    <Project Path="section5-getting-started/MinimalAgent/ServiceDefaults/ServiceDefaults.csproj" />
+    <Project Path="section5-getting-started/MinimalAgent/WebApi/WebApi.csproj" />
   </Folder>
 </Solution>
