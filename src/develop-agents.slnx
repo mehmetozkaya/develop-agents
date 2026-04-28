@@ -14,6 +14,7 @@
     <Project Path="section5-getting-started/MinimalAgent/WebApi/WebApi.csproj" />
   </Folder>
   <Folder Name="/section6-tool-use/">
+    <Project Path="section6-tool-use/ApproveRequiredFunc/ApproveRequiredFunc.csproj" Id="8ed048d9-4931-48b7-aa65-4a39c1d925f7" />
     <Project Path="section6-tool-use/FunctionCall/FunctionCall.csproj" Id="0044f9d7-c5f1-4edd-baef-3f35c071151a" />
   </Folder>
 </Solution>
