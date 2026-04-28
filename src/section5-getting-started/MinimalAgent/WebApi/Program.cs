@@ -51,6 +51,7 @@ app.MapDefaultEndpoints();
 app.MapDevUI();
 app.MapOpenAIResponses();
 app.MapOpenAIConversations();
+
 // Map chat endpoint to trigger the agent
 app.MapPost("/api/chat", async (ChatRequest request,
     [FromKeyedServices("NetworkSupportAgent")] AIAgent networkSupportAgent) =>

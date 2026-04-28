@@ -13,4 +13,7 @@
     <Project Path="section5-getting-started/MinimalAgent/ServiceDefaults/ServiceDefaults.csproj" />
     <Project Path="section5-getting-started/MinimalAgent/WebApi/WebApi.csproj" />
   </Folder>
+  <Folder Name="/section6-tool-use/">
+    <Project Path="section6-tool-use/FunctionCall/FunctionCall.csproj" Id="0044f9d7-c5f1-4edd-baef-3f35c071151a" />
+  </Folder>
 </Solution>
